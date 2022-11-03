@@ -1,0 +1,15 @@
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\bin\Debug\net6.0\NETMySQL.Data.deps.json
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\bin\Debug\net6.0\NETMySQL.Data.dll
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\bin\Debug\net6.0\NETMySQL.Data.pdb
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\bin\Debug\net6.0\NETMySQL.Model.dll
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\bin\Debug\net6.0\NETMySQL.Model.pdb
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.csproj.AssemblyReference.cache
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.AssemblyInfoInputs.cache
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.AssemblyInfo.cs
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.csproj.CopyComplete
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.dll
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\refint\NETMySQL.Data.dll
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\NETMySQL.Data.pdb
+C:\Users\ANDRES\Documents\Arquitectura de software\CRUDNet\NETMySQL.Data\obj\Debug\net6.0\ref\NETMySQL.Data.dll
